@@ -19,6 +19,7 @@
 > 2.  Create eslint configure file
 
 	touch .prettierrc
+ Prettier sample content. See [here](https://github.com/haibui2207/react-eslint-airbnb/blob/master/.prettierrc)
 > 3. Integrate Prettier with ESLint
 
 	npm install - eslint-config-prettier eslint-plugin-prettier
