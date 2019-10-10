@@ -25,6 +25,7 @@
 	npm install - eslint-config-prettier eslint-plugin-prettier
 
  `eslint-config-prettier` disables rules that conflict with Prettier
+ 
  `eslint-plugin-prettier` adds the rule that format content using Prettier.
 
 Enable this configuration by using the recommended one
