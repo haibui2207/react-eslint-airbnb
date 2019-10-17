@@ -8,7 +8,7 @@
   
 > 1. Install [ESLint](https://www.npmjs.com/package/eslint)
 
-	npm install -s eslint
+	npm install --save-dev eslint
 > 2.  Create ESLint configuration file
 
 	touch .eslintrc.json
@@ -21,7 +21,7 @@
 # # Integrate Prettier with ESLint
 > 1. Install [prettier](https://prettier.io/)
 
-	npm install -s prettier
+	npm install --save-dev prettier
 > 2.  Create eslint configure file
 
 	touch .prettierrc
