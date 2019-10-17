@@ -26,12 +26,12 @@
    */
   "plugins": [
     /*
-     * npm i eslint-plugin-import
+     * npm install --save-dev eslint-plugin-import
      * https://www.npmjs.com/package/eslint-plugin-import
      */
     "import",
     /*
-     * npm install - eslint-config-prettier eslint-plugin-prettier
+     * npm install --save-dev eslint-config-prettier eslint-plugin-prettier
      * https://www.npmjs.com/package/eslint-config-prettier
      * https://www.npmjs.com/package/eslint-plugin-prettier
      */
