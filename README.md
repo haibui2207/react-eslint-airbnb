@@ -12,6 +12,10 @@
 > 2.  Create ESLint configuration file
 
 	touch .eslintrc.json
+> 3.  Reference packages
+
+	npm install --save-dev eslint-plugin-import
+	npm install --save-dev eslint-config-airbnb
  Eslint sample content. See [here](https://github.com/haibui2207/react-eslint-airbnb/blob/master/.eslintrc.json)
 
 # # Integrate Prettier with ESLint
@@ -21,11 +25,6 @@
 > 2.  Create eslint configure file
 
 	touch .prettierrc
-> 3.  Reference packages
-
-	npm install --save-dev eslint-plugin-import
-	npm install --save-dev eslint-config-prettier eslint-plugin-prettier
-	npm install --save-dev eslint-config-airbnb
  Prettier sample content. See [here](https://github.com/haibui2207/react-eslint-airbnb/blob/master/.prettierrc)
 > 3. Integrate Prettier with ESLint
 
