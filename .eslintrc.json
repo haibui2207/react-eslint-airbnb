@@ -35,7 +35,7 @@
      * https://www.npmjs.com/package/eslint-config-prettier
      * https://www.npmjs.com/package/eslint-plugin-prettier
      */
-    "prettier/recommended"
+    "prettier"
   ],
   /**
    * Allows you to extend your configuration file from others configurations. A popular one is react-app provided by Create React App. That’s also in extends
@@ -87,7 +87,7 @@
     "func-call-spacing": 2,
     "generator-star-spacing": 2,
     "keyword-spacing": 2,
-    "max-len": ["error", { "code": 80, "comments": 65 }],
+    "max-len": ["error", { "code": 80, "comments": 80 }],
     "spaced-comment": 2,
     "space-before-blocks": 2,
     "space-infix-ops": 2,
