@@ -29,7 +29,6 @@
 > 3. Integrate Prettier with ESLint
 
 	npm install --save-dev eslint-plugin-prettier
-	npm install --save-dev --save-exact prettier
 	npm install --save-dev eslint-config-prettier
  `eslint-config-prettier` disables rules that conflict with Prettier
  
