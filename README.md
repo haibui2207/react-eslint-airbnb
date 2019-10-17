@@ -23,7 +23,7 @@
 > 3.  Reference packages
 
 	npm install --save-dev eslint-plugin-import
-	npm install -s eslint-config-prettier eslint-plugin-prettier
+	npm install --save-dev eslint-config-prettier eslint-plugin-prettier
 	npm install --save-dev eslint-config-airbnb
  Prettier sample content. See [here](https://github.com/haibui2207/react-eslint-airbnb/blob/master/.prettierrc)
 > 3. Integrate Prettier with ESLint
